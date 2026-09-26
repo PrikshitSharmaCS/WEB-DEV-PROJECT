@@ -450,3 +450,27 @@ margin-bottom: 40px;
     font-size: 11px;
     letter-spacing: 2px;
 }
+
+/* FOOTER */
+
+.site-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 25px 8%;
+    border-top: 1px solid Gray;
+
+    color: Gray;
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.site-footer a {
+    color: Gray;
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    color: white;
+}
